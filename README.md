@@ -1,2 +1,2 @@
 # Delta-DEMO
-Tuttorial
+Tuttorial for git & github..
